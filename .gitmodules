@@ -1,0 +1,12 @@
+[submodule "insta_api"]
+	path = insta_api
+	url = https://github.com/nurmamatov/insta_api
+[submodule "insta_post"]
+	path = insta_post
+	url = https://github.com/nurmamatov/insta_post
+[submodule "insta_comment"]
+	path = insta_comment
+	url = https://github.com/nurmamatov/insta_comment
+[submodule "insta_user"]
+	path = insta_user
+	url = https://github.com/nurmamatov/insta_user
